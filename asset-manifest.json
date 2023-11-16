@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RJsCourse/static/css/main.a81f5e1c.chunk.css",
+    "main.js": "/RJsCourse/static/js/main.473ae1b6.chunk.js",
+    "main.js.map": "/RJsCourse/static/js/main.473ae1b6.chunk.js.map",
+    "runtime-main.js": "/RJsCourse/static/js/runtime-main.bc2ce59c.js",
+    "runtime-main.js.map": "/RJsCourse/static/js/runtime-main.bc2ce59c.js.map",
+    "static/js/2.2a068b1b.chunk.js": "/RJsCourse/static/js/2.2a068b1b.chunk.js",
+    "static/js/2.2a068b1b.chunk.js.map": "/RJsCourse/static/js/2.2a068b1b.chunk.js.map",
+    "static/js/3.b5bd36bd.chunk.js": "/RJsCourse/static/js/3.b5bd36bd.chunk.js",
+    "static/js/3.b5bd36bd.chunk.js.map": "/RJsCourse/static/js/3.b5bd36bd.chunk.js.map",
+    "index.html": "/RJsCourse/index.html",
+    "precache-manifest.abbb2e9d5e3e12a665feb0360bb5c6ac.js": "/RJsCourse/precache-manifest.abbb2e9d5e3e12a665feb0360bb5c6ac.js",
+    "service-worker.js": "/RJsCourse/service-worker.js",
+    "static/css/main.a81f5e1c.chunk.css.map": "/RJsCourse/static/css/main.a81f5e1c.chunk.css.map",
+    "static/js/2.2a068b1b.chunk.js.LICENSE.txt": "/RJsCourse/static/js/2.2a068b1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc2ce59c.js",
+    "static/js/2.2a068b1b.chunk.js",
+    "static/css/main.a81f5e1c.chunk.css",
+    "static/js/main.473ae1b6.chunk.js"
+  ]
+}
